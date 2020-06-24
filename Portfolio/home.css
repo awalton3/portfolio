@@ -1,0 +1,39 @@
+/* Home page */
+
+
+/* Welcome view */
+.welcome {
+  padding: 0px 7px;
+  background-color: #1f1a24;
+  height: 93vh; /* nav takes up 7vh */
+  text-align: center;
+  color: #eee;
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: 600;
+  padding: 0 15px;
+}
+
+.welcome .author {
+  font-family: inherit;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.welcome .quote {
+  color: #cbbde2;
+  font-size: 65px;
+  text-align: center;
+}
+
+/* About */
+.about {
+  text-align: left;
+  font-size: 20px;
+}
+
+@media all and (max-width: 768px) {
+  .about {
+    text-align: center;
+  }
+}

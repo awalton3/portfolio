@@ -1,0 +1,60 @@
+/* navigation */
+.navigation {
+  background-color: #1f1a24;
+  padding: 10px 25px;
+  color: #cbbde2;
+}
+
+.navigation .menu-toggle {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.navigation .menu-toggle:hover {
+  font-size: 31px;
+}
+
+.navigation a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navigation a:hover {
+  text-decoration: none;
+  color: #cbbde2;
+}
+
+/* contact widgets */
+.contact-shortcuts {
+  text-align: right;
+}
+
+.contact-shortcuts i {
+  color: #cbbde2 !important;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.contact-shortcuts i:hover {
+  font-size: 19px;
+}
+
+/* footer */
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f7;
+  padding: 30px;
+  color: #36273B;
+}
+
+.footer i:hover {
+  font-size: 19px;
+  color: #1f1a24 !important;
+}
+
+.footer-spacer {
+  height: 100px;
+}
