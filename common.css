@@ -1,0 +1,40 @@
+/* Modular styles - universal styles */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  min-height: 100vh;
+}
+
+i {
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.main-section {
+  padding: 40px 30px;
+  text-align: center;
+  color: #36273B;
+}
+
+.profile-image {
+  background-color: #1f1a24;
+  background-image: url('images/profile-image.jpeg');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 50%;
+  border: 6px solid #cbbde2;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}

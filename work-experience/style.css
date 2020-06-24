@@ -1,0 +1,18 @@
+.company {
+  padding: 0 30px;
+  text-align: left;
+}
+
+.company-name {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.duration {
+  text-align: right;
+}
+
+.role {
+  font-weight: 400;
+}
